@@ -16,6 +16,5 @@ This project combines **POV-Ray's Scene Description Language** to generate a rea
    - A forest of trees on the other side of the canal.
 ---
 
-## File Structure
 
 
